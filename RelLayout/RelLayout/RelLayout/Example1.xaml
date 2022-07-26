@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="RelLayout.Example1">
+    <ContentPage.Content>
+        <StackLayout Padding="0,40,0,0">
+            <Frame BorderColor="Red">
+                <RelativeLayout HeightRequest="500">
+                    <Label Text="heading"
+                           RelativeLayout.XConstraint= "{ConstraintExpression Type=RelativeToParent,
+                                                         Property=Width,
+                                                         Factor=0.5,
+                                                         Constant=0}"
+                           RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent,
+                                                         Property=Height,
+                                                         Factor=0.0,
+                                                         Constant=0}"/>
+                    <Label Text="some text"
+                           RelativeLayout.XConstraint= "{ConstraintExpression Type=RelativeToParent,
+                                                         Property=Width,
+                                                         Factor=0.33,
+                                                         Constant=0}"
+                           RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent,
+                                                         Property=Height,
+                                                         Factor=0.5,
+                                                         Constant=0}"/>
+                </RelativeLayout>
+            </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
