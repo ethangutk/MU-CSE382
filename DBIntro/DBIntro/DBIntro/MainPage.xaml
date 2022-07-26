@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DBIntro.MainPage">
+
+    <StackLayout Margin="0,40,0,0">
+        <Entry x:Name="username"/>
+        <Button x:Name="addUserButton" Clicked="addUserButton_Clicked" Text="Add User"/>
+        
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Person name: "/>
+            <Entry x:Name="name"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Is female?: "/>
+            <RadioButton x:Name="isFemaleRadioButton"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Date Of Birth: "/>
+            <DatePicker x:Name="DOBPicker"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="SSN: "/>
+            <Entry x:Name="SSNEntry"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Income: "/>
+            <Entry x:Name="IncomeEntry"/>
+        </StackLayout>
+        <Button x:Name="addPersonButton" Clicked="addPersonButton_Clicked" Text="Add Person"/>
+        <ListView x:Name="lv"/>
+        <ListView x:Name="lv2"/>
+    </StackLayout>
+
+</ContentPage>
