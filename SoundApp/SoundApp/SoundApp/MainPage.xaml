@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SoundApp.MainPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="Play" x:Name="playButton" Clicked="OnClicked"/>
+            <Button Text="Stop" x:Name="stopButton" Clicked="stopButton_Clicked"/>
+            <StackLayout Orientation="Horizontal">
+                <Switch x:Name="loopSwitch" Toggled="loopSwitch_Toggled"/>
+                <Label Text="Loop"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
