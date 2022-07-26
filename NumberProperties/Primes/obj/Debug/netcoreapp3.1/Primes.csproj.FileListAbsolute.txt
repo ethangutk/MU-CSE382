@@ -1,0 +1,16 @@
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Primes\obj\Debug\netcoreapp3.1\Primes.csprojAssemblyReference.cache
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Primes\obj\Debug\netcoreapp3.1\Primes.AssemblyInfoInputs.cache
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Primes\obj\Debug\netcoreapp3.1\Primes.AssemblyInfo.cs
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Primes\obj\Debug\netcoreapp3.1\Primes.csproj.CoreCompileInputs.cache
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Primes\bin\Debug\netcoreapp3.1\Primes.exe
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Primes\bin\Debug\netcoreapp3.1\Primes.deps.json
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Primes\bin\Debug\netcoreapp3.1\Primes.runtimeconfig.json
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Primes\bin\Debug\netcoreapp3.1\Primes.runtimeconfig.dev.json
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Primes\bin\Debug\netcoreapp3.1\Primes.dll
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Primes\bin\Debug\netcoreapp3.1\Primes.pdb
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Primes\bin\Debug\netcoreapp3.1\NumberProperties.dll
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Primes\bin\Debug\netcoreapp3.1\NumberProperties.pdb
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Primes\obj\Debug\netcoreapp3.1\Primes.csproj.CopyComplete
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Primes\obj\Debug\netcoreapp3.1\Primes.dll
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Primes\obj\Debug\netcoreapp3.1\Primes.pdb
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Primes\obj\Debug\netcoreapp3.1\Primes.genruntimeconfig.cache

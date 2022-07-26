@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Evens/1.0.0": {
+        "dependencies": {
+          "NumberProperties": "1.0.0"
+        },
+        "runtime": {
+          "Evens.dll": {}
+        }
+      },
+      "NumberProperties/1.0.0": {
+        "runtime": {
+          "NumberProperties.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Evens/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NumberProperties/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Evens\bin\Debug\netcoreapp3.1\Evens.exe
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Evens\bin\Debug\netcoreapp3.1\Evens.deps.json
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Evens\bin\Debug\netcoreapp3.1\Evens.runtimeconfig.json
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Evens\bin\Debug\netcoreapp3.1\Evens.runtimeconfig.dev.json
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Evens\bin\Debug\netcoreapp3.1\Evens.dll
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Evens\bin\Debug\netcoreapp3.1\Evens.pdb
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Evens\bin\Debug\netcoreapp3.1\NumberProperties.dll
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Evens\bin\Debug\netcoreapp3.1\NumberProperties.pdb
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Evens\obj\Debug\netcoreapp3.1\Evens.csprojAssemblyReference.cache
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Evens\obj\Debug\netcoreapp3.1\Evens.AssemblyInfoInputs.cache
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Evens\obj\Debug\netcoreapp3.1\Evens.AssemblyInfo.cs
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Evens\obj\Debug\netcoreapp3.1\Evens.csproj.CoreCompileInputs.cache
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Evens\obj\Debug\netcoreapp3.1\Evens.csproj.CopyComplete
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Evens\obj\Debug\netcoreapp3.1\Evens.dll
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Evens\obj\Debug\netcoreapp3.1\Evens.pdb
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\Evens\obj\Debug\netcoreapp3.1\Evens.genruntimeconfig.cache

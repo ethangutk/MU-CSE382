@@ -1,0 +1,9 @@
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\NumberProperties\bin\Debug\netstandard2.1\NumberProperties.deps.json
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\NumberProperties\bin\Debug\netstandard2.1\NumberProperties.dll
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\NumberProperties\bin\Debug\netstandard2.1\NumberProperties.pdb
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\NumberProperties\obj\Debug\netstandard2.1\NumberProperties.csprojAssemblyReference.cache
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\NumberProperties\obj\Debug\netstandard2.1\NumberProperties.AssemblyInfoInputs.cache
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\NumberProperties\obj\Debug\netstandard2.1\NumberProperties.AssemblyInfo.cs
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\NumberProperties\obj\Debug\netstandard2.1\NumberProperties.csproj.CoreCompileInputs.cache
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\NumberProperties\obj\Debug\netstandard2.1\NumberProperties.dll
+C:\Users\Gutkn\Desktop\cse382\NumberProperties\NumberProperties\obj\Debug\netstandard2.1\NumberProperties.pdb
