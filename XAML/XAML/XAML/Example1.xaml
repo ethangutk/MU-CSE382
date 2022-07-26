@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="XAML.Example1">
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView x:Name="theList" ItemTapped="OnTapped" ItemSelected="OnItemSelected">
+                <ListView.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Chicken</x:String>
+                        <x:String>Roast Beef</x:String>
+                        <x:String>Pasta</x:String>
+                    </x:Array>
+                </ListView.ItemsSource>
+            </ListView>
+            <Label>
+                esrser
+            </Label>
+            <Label x:Name="cLabel" Text="Chicken: 0 0" FontSize="Large"/>
+            <Label x:Name="rbLabel" Text="RoastBeef: 0 0" FontSize="Large"/>
+            <Label x:Name="pLabel" Text="Pasta: 0 0" FontSize="Large"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
